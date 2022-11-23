@@ -1,0 +1,15 @@
+ALGORITHM algorithm_name
+VAR
+    set_declarations
+BEGIN
+    read[T1]
+    read[T2]
+    for (let T = 0; T(T1.length)) {
+        for (let j=0 (j.length , j++))
+        if T1[i]==T2[j]
+        Found=True 
+        if (Found=False)
+            T3[K]=T1[]
+            K=K+1
+            }
+END
